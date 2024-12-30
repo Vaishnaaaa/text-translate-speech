@@ -34,9 +34,10 @@ padding: 20px;
 border-radius: 10px;
 resize: none;
 margin-bottom: 30px; 
+font-size: 25px;
 }
 textarea::placeholder{
-font-size: 16px;
+font-size: 25px;
 color: #ddd
 }
 .row{
